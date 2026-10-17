@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-.bg1 {
+.btn1, .btn2{
     background-color: white;
     font-size: 28px;
     font-family: Helvetica, "Times New Roman",sans-serif;
